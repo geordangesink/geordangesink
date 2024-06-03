@@ -33,7 +33,7 @@ See [my website](https://geordangesink.netlify.app/) for more information!
       <a target="_blank" href="https://jackblackjack.netlify.app/"><h3 align="center">JackBlackJack</h3></a>
         <br />
         <a target="_blank" href="https://github.com/geordangesink/blackjack">
-            <img src="images/gif1.gif" width="100%" alt="BlackJack Cardgame"/>
+            <img src="images/jackblackjack.gif" width="100%" alt="BlackJack Cardgame"/>
         </a>
         <br />
         <p align="center">
@@ -51,7 +51,7 @@ See [my website](https://geordangesink.netlify.app/) for more information!
       <a target="_blank" href="https://potd-from-nasa.netlify.app/"><h3 align="center">NASA POTD</h3></a>
         <br />
       <a target="_blank" href="https://potd-from-nasa.netlify.app/">
-            <img src="images/gif2.gif" width="100%"  alt="NASA POTD"/>
+            <img src="images/POTD.gif" width="100%"  alt="NASA POTD"/>
         </a>
         <br />
         <p align="center">
