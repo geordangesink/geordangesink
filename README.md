@@ -1,5 +1,5 @@
 
-<img src="/images/Geordan Gesink"/>
+<img src="/images/Geordan Gesink.png"/>
 
 <p align="center">
   <a href="https://geordangesink.netlify.app/" target="_blank">
