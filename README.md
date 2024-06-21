@@ -116,20 +116,20 @@ I started my programming journey while still doing my Bachelor of Science degree
 
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=CSHARP&color=68217A&style=plastic&logo=c-sharp"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=DOTNET&color=512BD4&style=plastic&logo=dotnet"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=ASPDOTNET&color=512BD4&style=plastic&logo=dotnet"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SWAGGER&color=85EA2D&style=plastic&logo=swagger"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=FF0000&style=plastic&logo=adobe"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=47A248&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=000000&style=plastic&logo=express"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=FCC624&style=plastic&logo=linux"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=F05032&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=77dd77&style=plastic&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=89c997&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=9cb5b7&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=aea0d7&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=c18cf7&style=plastic&logo=python"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSHARP&color=d38bfa&style=plastic&logo=c-sharp"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=DOTNET&color=e589fd&style=plastic&logo=dotnet"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=ASPDOTNET&color=f786fa&style=plastic&logo=dotnet"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=SWAGGER&color=ff85f7&style=plastic&logo=swagger"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=ff85e3&style=plastic&logo=adobe"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=ff84cf&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=ff84bb&style=plastic&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=ff84a7&style=plastic&logo=linux"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=ff8493&style=plastic&logo=git"/>
 </p>
 
 
