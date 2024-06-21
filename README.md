@@ -119,6 +119,7 @@ I started my programming journey while still doing my Bachelor of Science degree
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=77b377&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=669966&style=plastic&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=558066&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NODE&color=558066&style=plastic&logo=node"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=446666&style=plastic&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=335c66&style=plastic&logo=python"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSHARP&color=224c66&style=plastic&logo=c-sharp"/>
