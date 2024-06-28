@@ -1,4 +1,5 @@
-
+<h1>Hey there!</h1>
+<h2>I'm Geordan</h2>
 <img src="/images/Geordan Gesink.png"/>
 
 <p align="center">
@@ -17,9 +18,10 @@
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a> -->
 
+
   
 </p>
-
+<b>About Me</b>
 I started my programming journey while still doing my Bachelor of Science degree and initially began with software engineering because I had an idea of writing a trading algorithm using an analytical tool that is not commonly used for algorithms. This experience introduced me to APIs and server communication, which showed me the immense potential within the web development landscape. I realized that software engineering was my true calling when I noticed that I could not stop coding on a daily basis, since I started my journey. My commitment to continuous learning and innovation, together with a foundation in analytical thinking and web development, places me at a position as a driven and capable software engineer ready to contribute to cutting-edge projects.
 
 
