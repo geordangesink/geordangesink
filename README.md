@@ -45,6 +45,8 @@ I started my programming journey while still doing my Bachelor of Science degree
       </p>
         <p><strong>Pear, Node.js, React.js, Javascript, CSS, HTML</strong> - Decentralized Calendar Application</p>
     </td>
+    </tr>
+    <tr>
     <td width="50%" valign="top">
       <a target="_blank" href="https://msp-lab-safety.netlify.app/"><h3 align="center">MSP-lab-safety</h3></a>
         <br />
