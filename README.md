@@ -30,7 +30,7 @@ I started my programming journey while still doing my Bachelor of Science degree
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="100%" valign="top">
+    <td width="33%" valign="top">
       <a target="_blank" href="https://github.com/geordangesink/peer-planner"><h3 align="center">Peer-Planner</h3></a>
         <br />
         <a target="_blank" href="https://github.com/geordangesink/peer-planner">
@@ -45,9 +45,7 @@ I started my programming journey while still doing my Bachelor of Science degree
       </p>
         <p><strong>Pear, Node.js, React.js, Javascript, CSS, HTML</strong> - Decentralized Calendar Application</p>
     </td>
-    </tr>
-    <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a target="_blank" href="https://msp-lab-safety.netlify.app/"><h3 align="center">MSP-lab-safety</h3></a>
         <br />
         <a target="_blank" href="https://github.com/geordangesink/lab-safety">
@@ -65,7 +63,7 @@ I started my programming journey while still doing my Bachelor of Science degree
       </p>
         <p><strong>Javascript, CSS, HTML</strong> - Laboratory Safety Education (Interactive safety Video and waste disposal Simulation)</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a target="_blank" href="https://wsi.netlify.app/"><h3 align="center">WSI Website</h3></a>
         <br />
       <a target="_blank" href="https://wsi.netlify.app/">
