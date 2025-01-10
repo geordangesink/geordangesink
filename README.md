@@ -33,7 +33,7 @@ I started my programming journey while still doing my Bachelor of Science degree
     <td width="50%" valign="top">
       <a target="_blank" href="https://msp-lab-safety.netlify.app/"><h3 align="center">MSP-lab-safety</h3></a>
         <br />
-        <a target="_blank" href="https://github.com/geordangesink/lab-safet">
+        <a target="_blank" href="https://github.com/geordangesink/lab-safety">
             <img src="images/msp-lab-safety.gif" width="100%" alt="Laboratory Safety Education GIF"/>
         </a>
         <br />
