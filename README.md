@@ -23,7 +23,7 @@
   
 </p>
 <b>About What I do</b><br><br>
-I'm a professional full-stack developer with a strong focus on scalability, performance, and superb design. I specialize in peer-to-peer (P2P) technologies and AI, and I’m passionate about building efficient, high-quality software that can scale seamlessly. Whether it's developing robust backend systems or crafting intuitive front-end experiences, I’m committed to delivering solutions that are not only functional but also optimized for performance and user experience.
+I'm a professional full-stack developer with a strong focus on scalability, performance, and superb design. I specialize in peer-to-peer (P2P) technologies and AI, and I’m passionate about building efficient, high-quality software that can scale seamlessly. Whether it's developing robust backend systems or crafting intuitive front-end experiences, I’m committed to delivering solutions that are not only functional but also optimized for performance and user experience.<br><br>
 
 Feel free to explore my repositories, and let’s connect if you’d like to collaborate!
 
