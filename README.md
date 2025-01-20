@@ -22,8 +22,10 @@
 
   
 </p>
-<b>About Me</b><br><br>
-I started my programming journey while still doing my Bachelor of Science degree and initially began with software engineering because I had an idea of writing a trading algorithm using an analytical tool that is not commonly used for algorithms. This experience introduced me to APIs and server communication, which showed me the immense potential within the web development landscape. I realized that software engineering was my true calling when I noticed that I could not stop coding on a daily basis, since I started my journey. My commitment to continuous learning and innovation, together with a foundation in analytical thinking and web development, places me at a position as a driven and capable software engineer ready to contribute to cutting-edge projects.
+<b>About What I do</b><br><br>
+I'm a professional full-stack developer with a strong focus on scalability, performance, and superb design. I specialize in peer-to-peer (P2P) technologies and AI, and I’m passionate about building efficient, high-quality software that can scale seamlessly. Whether it's developing robust backend systems or crafting intuitive front-end experiences, I’m committed to delivering solutions that are not only functional but also optimized for performance and user experience.
+
+Feel free to explore my repositories, and let’s connect if you’d like to collaborate!
 
 
 <h1 align="center">Projects</h1>
