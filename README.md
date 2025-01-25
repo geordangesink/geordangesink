@@ -33,7 +33,7 @@ Feel free to explore my repositories, and let’s connect if you’d like to col
   
   <tr>
     <td width="33%" valign="top">
-      <a target="_blank" href="https://github.com/geordangesink/peer-planner"><h3 align="center">Peer-Planner</h3></a>
+      <a target="_blank" href="https://github.com/geordangesink/peer-planner-public"><h3 align="center">Peer-Planner</h3></a>
         <br />
         <a target="_blank" href="https://github.com/geordangesink/peer-planner">
             <img src="images/peer-planner-demo.gif" width="100%" alt="Peer-Planner demo GIF"/>
@@ -41,7 +41,7 @@ Feel free to explore my repositories, and let’s connect if you’d like to col
         <br />
         <p align="center">
           
- <a href="https://github.com/geordangesink/peer-planner" target="_blank">
+ <a href="https://github.com/geordangesink/peer-planner-public" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
       </p>
