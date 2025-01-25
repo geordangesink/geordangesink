@@ -35,7 +35,7 @@ Feel free to explore my repositories, and let’s connect if you’d like to col
     <td width="33%" valign="top">
       <a target="_blank" href="https://github.com/geordangesink/peer-planner-public"><h3 align="center">Peer-Planner</h3></a>
         <br />
-        <a target="_blank" href="https://github.com/geordangesink/peer-planner">
+        <a target="_blank" href="https://github.com/geordangesink/peer-planner-public">
             <img src="images/peer-planner-demo.gif" width="100%" alt="Peer-Planner demo GIF"/>
         </a>
         <br />
