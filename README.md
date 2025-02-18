@@ -45,6 +45,7 @@ Feel free to explore my repositories, and let’s connect if you’d like to col
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
       </p>
+        <p>Published soon!</p>
         <p><strong>Pear, Node.js, React.js, Javascript, CSS, HTML</strong> - Decentralized Calendar Application</p>
     </td>
     <td width="33%" valign="top">
