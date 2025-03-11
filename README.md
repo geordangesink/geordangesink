@@ -55,7 +55,8 @@ Feel free to explore my repositories, and let’s connect if you’d like to col
         </a>
         <br />
         <p align="center">
-          
+  </tr>
+  <tr>
  <a href="https://github.com/geordangesink/peer-planner-public" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
