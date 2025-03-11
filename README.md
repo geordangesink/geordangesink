@@ -32,8 +32,23 @@ Feel free to explore my repositories, and let’s connect if you’d like to col
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="33%" valign="top">
-      <a target="_blank" href="https://github.com/geordangesink/peer-planner-public"><h3 align="center">Peer-Planner</h3></a>
+    <td width="50%" valign="top">
+      <a target="_blank" href="https://github.com/geordangesink/owe-no"><h3 align="center">OweNo</h3></a>
+        <br />
+        <a target="_blank" href="https://github.com/geordangesink/owe-no">
+            <img src="images/owe-no-demo.gif" width="100%" alt="OweNo demo GIF"/>
+        </a>
+        <br />
+        <p align="center">
+          
+ <a href="https://github.com/geordangesink/owe-no" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+      </p>
+        <p><strong>Bare, Expo, React Native, Typescript, Javascript</strong> - Decentralized Debt Management Application</p>
+    </td>
+    <td width="50%" valign="top">
+      <a target="_blank" href="https://github.com/geordangesink/peer-planner-public"><h3 align="center">PeerPlanner</h3></a>
         <br />
         <a target="_blank" href="https://github.com/geordangesink/peer-planner-public">
             <img src="images/peer-planner-demo.gif" width="100%" alt="Peer-Planner demo GIF"/>
@@ -47,7 +62,7 @@ Feel free to explore my repositories, and let’s connect if you’d like to col
       </p>
         <p><strong>Pear, Node, React, Javascript, CSS, HTML</strong> - Decentralized Calendar Application</p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a target="_blank" href="https://msp-lab-safety.netlify.app/"><h3 align="center">MSP-lab-safety</h3></a>
         <br />
         <a target="_blank" href="https://github.com/geordangesink/lab-safety">
@@ -65,7 +80,7 @@ Feel free to explore my repositories, and let’s connect if you’d like to col
       </p>
         <p><strong>Vanilla Javascript, CSS, HTML</strong> - Laboratory Safety Education (Interactive safety Video and waste disposal Simulation)</p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a target="_blank" href="https://wsi.netlify.app/"><h3 align="center">WSI Website</h3></a>
         <br />
       <a target="_blank" href="https://wsi.netlify.app/">
