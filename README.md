@@ -103,8 +103,8 @@ Feel free to explore my repositories, and let’s connect if you’d like to col
 <h1 align="center">Technologies</h1>
 
 
-<p align="center">
-    ![HTML5](https://img.shields.io/badge/html5-%2377b377.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/html5-%2377b377.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%23669966.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23558066.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23446666.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -116,7 +116,6 @@ Feel free to explore my repositories, and let’s connect if you’d like to col
 ![Python](https://img.shields.io/badge/python-%23660033.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23660011.svg?style=for-the-badge&logo=git&logoColor=white)
 
-</p>
 
 
 
